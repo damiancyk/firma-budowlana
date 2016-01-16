@@ -59,6 +59,8 @@ body {margin:50px 0px; padding:0px; background-color: #000000;}
 <script src="assets/js/animations.min.js"></script>
 <!-- CUSTOM SCRIPTS -->
 <script src="assets/js/custom.js"></script>
+<script src="assets/js/linkActive.js"></script>
+
 </head>
 
 <body data-spy="scroll" data-target="#menu-section">
@@ -79,9 +81,9 @@ PAWEŁ KRAWIEC - FIRMA BUDOWLANA
 </div>
 <div class="navbar-collapse collapse">
 <ul class="nav navbar-nav navbar-right">
-<li><a href="index">START</a></li>
-<li><a href="galeria">GALERIA</a></li>
-<li class="active" ><a href="kontakt">KONTAKT</a></li>
+<li class="linkStart"><a href="index" >START</a></li>
+<li class="linkGaleria"><a href="galeria">GALERIA</a></li>
+<li class="linkKontakt" ><a href="kontakt">KONTAKT</a></li>
 </ul>
 </div>
 

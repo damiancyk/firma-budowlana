@@ -1,5 +1,11 @@
 <?php include 'assets/page/header.php';?>
 
+<script>
+$(function(){
+setLink('linkGaleria');
+});
+</script>
+
     <div id="content">
     <div class="mygallery">
 	<div class="tn3 album">

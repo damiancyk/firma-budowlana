@@ -1,5 +1,10 @@
 ﻿<?php include 'assets/page/header.php';?>
 
+<script>
+$(function(){
+setLink('linkStart');
+});
+</script>
 
 <div id="home" >
 <div class="container">

@@ -1,5 +1,11 @@
 ﻿<?php include 'assets/page/header.php';?>
 
+<script>
+$(function(){
+setLink('linkKontakt');
+});
+</script>
+
 <div class="container">
     <div class="row">
         <div class="col-md-6">
