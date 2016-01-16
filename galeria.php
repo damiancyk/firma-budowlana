@@ -134,5 +134,4 @@ partDirection:"left"
 		});
 	});
 </script>
-
 <?php include 'assets/page/footer.php';?>

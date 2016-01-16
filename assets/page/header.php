@@ -30,7 +30,7 @@
 <![endif]-->
 
 <style type="text/css">
-body {margin:50px 0px; padding:0px; background-color: #000000;color: #ffffff;}
+body {margin:50px 0px; padding:0px; background-color: #000000;}
 #content {width:620px; margin:0px auto;}
 #desc {margin:10px; float:left; font-family: Arial, sans-serif; font-size: 12px;}
 </style>
@@ -81,7 +81,7 @@ PAWEŁ KRAWIEC - FIRMA BUDOWLANA
 <ul class="nav navbar-nav navbar-right">
 <li><a href="index">START</a></li>
 <li><a href="galeria">GALERIA</a></li>
-<li><a href="kontakt">KONTAKT</a></li>
+<li class="active" ><a href="kontakt">KONTAKT</a></li>
 </ul>
 </div>
 
